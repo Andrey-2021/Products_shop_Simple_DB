@@ -552,7 +552,7 @@ namespace WpfAppDB.ViewModel
         /// <returns>true - изменить возможно. false - изменить нельзя</returns>
         bool CheckIsPossibleChangeProduct(object parametr)
         {
-            //todo Везщде добавить проверку доступна ли БД
+            //todo Везде добавить проверку доступна ли БД
             return IsDbAvalaible && SelectedProduct != null;
         }
 

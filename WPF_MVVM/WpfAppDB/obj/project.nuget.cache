@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7sBtHTKLQ4ygcNpe3yih8YRF9g1ZtXP3rhsrmooNQdqlkHGRe9D/8MyjWwlOYdctKz9RnaU3Ated6vK4jLW7Q==",
+  "dgSpecHash": "sfSNIyZPwDSGmGKbIwrBPYl01K+xHrsvvMMPS9IPtLVMLRbf9Ydc7l+JQA/UVgRnecHTHrtTh9CmaAoeQeajYA==",
   "success": true,
-  "projectFilePath": "E:\\1\\2021 ALL\\2021-12-27 Дмитрий - WPF - MVVM - БД\\Программа\\Новая папка\\WpfAppDB\\WpfAppDB\\WpfAppDB.csproj",
+  "projectFilePath": "E:\\1\\2021 ALL\\2021-12-27 Дмитрий - WPF - MVVM - БД\\Программа\\Новая папка\\Products_shop_Simple_DB\\WPF_MVVM\\WpfAppDB\\WpfAppDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Andrey\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

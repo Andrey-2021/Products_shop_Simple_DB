@@ -90,7 +90,7 @@ namespace WpfAppDB.Model
         //реализация Интерфейса IDisposable.
         /// <summary>
         ///  Освобождение ресурсов. 
-        ///  Осовобождения потока записи логов DBMagazineContext в файл 
+        ///  Осовобождение потока записи логов DBMagazineContext в файл 
         /// </summary>
         public void Dispose()
         {

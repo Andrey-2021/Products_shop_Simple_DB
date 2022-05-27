@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAppDB"
         mc:Ignorable="d"
-        Title="База данных. Автор: Dmitry Zharkov" Height="500" Width="1100"
+        Title="База данных." Height="500" Width="1100"
         WindowStartupLocation="CenterScreen"
         x:Name="MainWindow"
         >
