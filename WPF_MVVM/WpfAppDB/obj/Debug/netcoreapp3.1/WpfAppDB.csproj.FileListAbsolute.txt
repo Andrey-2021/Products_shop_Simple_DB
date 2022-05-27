@@ -1,0 +1,394 @@
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.exe
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.deps.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.dev.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.lref
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.g.resources
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfoInputs.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfo.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CoreCompileInputs.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CopyComplete
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.genruntimeconfig.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Model\appsettings.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.AssemblyReference.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.exe
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Model\appsettings.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.deps.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.dev.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.lref
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.g.resources
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfoInputs.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfo.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CoreCompileInputs.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CopyComplete
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.genruntimeconfig.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\skin\light.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.AssemblyReference.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.exe
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Model\appsettings.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.deps.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.dev.json
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.AssemblyReference.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\skin\light.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.lref
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.baml
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.g.resources
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfoInputs.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfo.cs
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CoreCompileInputs.cache
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CopyComplete
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.genruntimeconfig.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.exe
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Model\appsettings.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.deps.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.dev.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.AssemblyReference.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\skin\light.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.lref
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.g.resources
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfoInputs.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfo.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CoreCompileInputs.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CopyComplete
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Новая папка (2)\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.genruntimeconfig.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.exe
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Model\appsettings.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.deps.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.runtimeconfig.dev.json
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.AssemblyReference.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\skin\light.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\App.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB_MarkupCompile.lref
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MainWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\MessageWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ProductWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\View\ShopWindowView.baml
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.g.resources
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfoInputs.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.AssemblyInfo.cs
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CoreCompileInputs.cache
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.csproj.CopyComplete
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.dll
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.pdb
+E:\1\2021 ALL\2021-12-27 Дмитрий - WPF - MVVM - БД\Программа\Новая папка\WpfAppDB\WpfAppDB\obj\Debug\netcoreapp3.1\WpfAppDB.genruntimeconfig.cache

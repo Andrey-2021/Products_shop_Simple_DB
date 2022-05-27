@@ -1,0 +1,6 @@
+2022-02-26 15:02:53.983 +03:00 [INF] Запуск программы. Метод OnStartup(), файл App.xaml.cs { ThreadId: 1 }
+2022-02-26 15:02:54.144 +03:00 [INF] Создание DbModel. Отработка конструктора. { SourceContext: "WpfAppDB.Model.DbModel", ThreadId: 1 }
+2022-02-26 15:02:54.159 +03:00 [INF] Создание нового соединения с БД. { SourceContext: "WpfAppDB.Model.DbModel", ThreadId: 1 }
+2022-02-26 15:02:57.009 +03:00 [INF] connectionString=Data Source=KOMP2021;Initial Catalog=DBMagazine;Trusted_Connection=True; { SourceContext: "WpfAppDB.Model.DbModel", ThreadId: 1 }
+2022-02-26 15:03:36.872 +03:00 [INF] Ресурс logStream освобождён. { SourceContext: "WpfAppDB.Model.DbModel", ThreadId: 1 }
+2022-02-26 15:03:36.873 +03:00 [INF] Программа закрыта { ThreadId: 1 }

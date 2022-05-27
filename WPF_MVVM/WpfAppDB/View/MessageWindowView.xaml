@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfAppDB.ViewModel.MessageWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDB.ViewModel"
+        mc:Ignorable="d"
+        Title="Сообщение" Height="220" Width="500"
+        WindowStartupLocation="CenterScreen"
+    >
+    
+    <Window.Resources>
+        <ResourceDictionary Source="./skin/light.xaml"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0"
+                   HorizontalAlignment="Center"> Сообщение!</TextBlock>
+        
+        <TextBlock Grid.Row="1" Text="{Binding Message}"
+                   MinHeight="20" MinWidth="150"
+                   TextWrapping="Wrap"
+                   Background="Azure" 
+                   > </TextBlock>
+        
+        <Button Grid.Row="2"
+                IsCancel="True"
+                IsDefault="True"
+                Command="{Binding CloseWindowCommand}">Закрыть</Button>
+    </Grid>
+</Window>
