@@ -66,3 +66,47 @@ info: 27.05.2022 22:22:56.623 CoreEventId.ContextInitialized[10403] (Microsoft.E
       Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
 info: 27.05.2022 22:23:04.946 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
       Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:41:26.125 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:44:32.271 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:44:50.515 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:44:50.614 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (35ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT 1
+info: 27.05.2022 22:44:50.629 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:44:50.632 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT 1
+info: 27.05.2022 22:44:50.635 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:44:51.094 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[Id], [s].[Address], [s].[Email], [s].[Name], [s].[Phone]
+      FROM [Shops] AS [s]
+info: 27.05.2022 22:44:51.331 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[Id], [p].[Name], [p].[Price], [p].[ShopsId]
+      FROM [Products] AS [p]
+info: 27.05.2022 22:45:40.583 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:45:40.993 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (28ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT 1
+info: 27.05.2022 22:45:41.045 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:45:41.054 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT 1
+info: 27.05.2022 22:45:41.066 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.13 initialized 'DBMagazineContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: 27.05.2022 22:45:41.576 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (23ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[Id], [s].[Address], [s].[Email], [s].[Name], [s].[Phone]
+      FROM [Shops] AS [s]
+info: 27.05.2022 22:45:41.939 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[Id], [p].[Name], [p].[Price], [p].[ShopsId]
+      FROM [Products] AS [p]

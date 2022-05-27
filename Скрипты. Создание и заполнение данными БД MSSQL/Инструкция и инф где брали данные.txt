@@ -1,6 +1,6 @@
 
 
-1 этап/ 
+1 этап.
 Создать базу данных - открыть и выполнить 
 в Microsoft SQL Server Management Studio
 файл <SQLQuery1 - создать БД.sql>
